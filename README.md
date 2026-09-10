@@ -29,5 +29,5 @@ Maintained as part of the **Programmer on Duty (PoD)** responsibilities for INSE
 
 For questions or issues with the materials, please contact:
 
-TA: **Dalia Alzubi**  
+TA: **Dalia Alzub'i**  
 📧 dalia.alzu-bi@mail.concordia.ca
